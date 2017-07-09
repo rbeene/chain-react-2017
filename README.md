@@ -1,1 +1,100 @@
-# chain-react-2017
+# Chain React 2017 Summary
+
+A collection of links that cover what happened during Chain React 2017. Please feel free to submit a PR!
+
+## Day 1 
+
+### Talks
+
+#### The Dark Art of Bundlers by [Mike Grabowski](https://twitter.com/grabbou)
+- Video
+- Slides
+- Links: 
+
+#### React Native Sand Paper by [Brent Vatne](https://twitter.com/notbrent)
+- Video
+- Slides
+- Links: 
+
+#### Realtime Event Processing, Streaming and Subscription for React Native Using Cloud Services by [Richard Threlkeld](https://twitter.com/undef_obj)
+- Video
+- Slides
+- Links: 
+
+#### Experimenting with a Paypal Checkout SDK using React Native by [Poornima Venkatakrishnan](https://twitter.com/poorni_venkat)
+- Video
+- Slides
+- Links: 
+
+#### React Native + ES.next = ♥︎ by [Ben Ilegbodu](https://twitter.com/benmvp)
+- Video
+- Slides
+- Links: 
+
+#### How to Sanely Work with File Types in a Cross Platform React Native Application by [Nader Dabit](https://twitter.com/dabit3)
+- Video
+- Slides
+- Links: 
+
+#### Accepting Mobile Payments with React Native by [Naoufal Kadhom](https://twitter.com/naoufal)
+- Video
+- Slides
+- Links: 
+
+#### Gestures here. Gestures there. Gestures everywhere! by [Kyle Poole](https://twitter.com/kylpo) & [Thomas Bruketta](https://twitter.com/SirTeebs)
+- Video
+- Slides
+- Links: 
+
+#### Rewriting a Large Hybrid App with React Native by [Javier Cuevas](https://twitter.com/javier_dev)
+- Video
+- Slides
+- Links: 
+
+#### Why We Need an App Browser by [Ken Wheeler](https://twitter.com/ken_wheeler)
+- Video
+- Slides
+- Links: 
+
+## Day 2
+
+### Talks
+#### Breaking Down React Native Bridging by [Peggy Rayzis](https://twitter.com/peggyrayzis)
+- Video
+- Slides
+- Links: 
+
+#### From RPC to GraphQL: APIs from Past to Present by [Eric Baer](https://twitter.com/ebaerbaerbaer)
+- Video
+- Slides
+- Links: 
+
+#### React as a Platform: A path towards a truly cross-platform UI by [Leland Richardson](https://twitter.com/intelligibabble)
+- Video
+- Slides
+- Links: 
+
+#### Building Serverless Backends with AWS Lambda for React Native Apps by [Kevin Old](https://twitter.com/kevinold)
+- Video
+- Slides
+- Links: 
+
+#### When to Go Native Over Javascript by [Harry Tormey](https://twitter.com/htormey)
+- Video
+- Slides
+- Links: 
+
+#### Building Stellar User Experiences with React Native by [Alex Kotliarskyi](https://twitter.com/alex_frantic)
+- Video
+- Slides
+- Links: 
+
+#### React Native on the Apple TV Platform by [Doug Lowder](https://twitter.com/douglowder)
+- Video
+- Slides
+- Links: 
+
+#### From Idea to App Store: A Guide to Shipping React Native Apps by [Chris Ball](https://twitter.com/cball_)
+- Video
+- Slides
+- Links: 
