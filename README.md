@@ -16,7 +16,8 @@ A collection of links that cover what happened during Chain React 2017. Please f
 #### React Native Sand Paper by [Brent Vatne](https://twitter.com/notbrent)
 - Video
 - Slides
-- Links: [Native Directory](https://www.native.directory) and [the repo](https://github.com/expo/react-native-libraries)
+- Links:
+  + [Native Directory](https://www.native.directory) and [the repo](https://github.com/expo/react-native-libraries)
 
 #### Realtime Event Processing, Streaming and Subscription for React Native Using Cloud Services by [Richard Threlkeld](https://twitter.com/undef_obj)
 - Video
@@ -26,7 +27,8 @@ A collection of links that cover what happened during Chain React 2017. Please f
 #### Experimenting with a Paypal Checkout SDK using React Native by [Poornima Venkatakrishnan](https://twitter.com/poorni_venkat)
 - Video
 - Slides
-- Links: [Development Preview](https://github.com/paypal/paypalnativecheckout-docs)
+- Links: 
+  + [Development Preview](https://github.com/paypal/paypalnativecheckout-docs)
 
 Poornima built her talk in React Native using:
 - react-native-looped-carousel
