@@ -31,8 +31,8 @@ A collection of links that cover what happened during Chain React 2017. Please f
   + [Development Preview](https://github.com/paypal/paypalnativecheckout-docs)
 
 Poornima built her talk in React Native using:
-- react-native-looped-carousel
-- react-native-youtube
+- [react-native-looped-carousel](https://github.com/appintheair/react-native-looped-carousel)
+- [react-native-youtube](https://github.com/inProgress-team/react-native-youtube)
 
 #### React Native + ES.next = ♥︎ by [Ben Ilegbodu](https://twitter.com/benmvp)
 - Video
