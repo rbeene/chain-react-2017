@@ -10,7 +10,7 @@ A collection of links that cover what happened during Chain React 2017. Please f
 
 #### The Dark Art of Bundlers by [Mike Grabowski](https://twitter.com/grabbou)
 - Video
-- Slides
+- [Slides](https://speakerdeck.com/grabbou/the-dark-art-of-bundlers)
 - Links: 
 
 #### React Native Sand Paper by [Brent Vatne](https://twitter.com/notbrent)
