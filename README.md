@@ -34,7 +34,7 @@ Poornima built her talk in React Native using:
 
 #### React Native + ES.next = ♥︎ by [Ben Ilegbodu](https://twitter.com/benmvp)
 - Video
-- Slides
+- [Slides](https://bit.ly/chain-react-native-esnext)
 - Links: 
 
 #### How to Sanely Work with File Types in a Cross Platform React Native Application by [Nader Dabit](https://twitter.com/dabit3)
