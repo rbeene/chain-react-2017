@@ -2,6 +2,8 @@
 
 A collection of links that cover what happened during Chain React 2017. Please feel free to submit a PR!
 
+[Code of Conduct](http://confcodeofconduct.com/)
+
 ## Day 1 
 
 ### Talks
