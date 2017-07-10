@@ -48,6 +48,7 @@ Poornima built her talk in React Native using:
 - Video
 - Slides
 - Links: 
+  - [React Native Payments](https://github.com/naoufal/react-native-payments)
 
 #### Gestures here. Gestures there. Gestures everywhere! by [Kyle Poole](https://twitter.com/kylpo) & [Thomas Bruketta](https://twitter.com/SirTeebs)
 - Video
