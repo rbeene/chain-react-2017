@@ -15,7 +15,7 @@ A collection of links that cover what happened during Chain React 2017. Please f
 
 #### React Native Sand Paper by [Brent Vatne](https://twitter.com/notbrent)
 - Video
-- Slides
+- [Slides](http://url.brentvatne.ca/F09ch)
 - Links:
   + [Native Directory](https://www.native.directory) and [the repo](https://github.com/expo/react-native-libraries)
 
