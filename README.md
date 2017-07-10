@@ -98,3 +98,6 @@ A collection of links that cover what happened during Chain React 2017. Please f
 - Video
 - Slides
 - Links: 
+
+This format is totally and completely inspired by [Lauren Tan's](https://twitter.com/sugarpirate_) open archive of many of my favorite conferences.
+
