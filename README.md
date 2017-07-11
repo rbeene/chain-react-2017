@@ -70,8 +70,11 @@ Poornima built her talk in React Native using:
 ### Talks
 #### Breaking Down React Native Bridging by [Peggy Rayzis](https://twitter.com/peggyrayzis)
 - Video
-- Slides
+- [Slides](https://github.com/peggyrayzis/chain-react-bridging)
 - Links: 
+  - [react-native-create-bridge](https://github.com/peggyrayzis/react-native-create-bridge)
+  - [react-native-create-library](https://github.com/frostney/react-native-create-library)
+  - [rn-snoopy](https://github.com/jondot/rn-snoopy)
 
 #### From RPC to GraphQL: APIs from Past to Present by [Eric Baer](https://twitter.com/ebaerbaerbaer)
 - Video
