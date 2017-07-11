@@ -81,6 +81,12 @@ Poornima built her talk in React Native using:
 - Slides
 - Links: 
 
+#### From Zero to DevOps by [Ram Narasimhan](https://twitter.com/nparashuram)
+- Video
+- Slides
+- Links:
+  * [Microsoft's Mobile Center](https://mobile.azure.com)
+
 #### React as a Platform: A path towards a truly cross-platform UI by [Leland Richardson](https://twitter.com/intelligibabble)
 - Video
 - Slides
