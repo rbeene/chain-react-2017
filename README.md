@@ -124,7 +124,7 @@ Poornima built her talk in React Native using:
 
 #### From Idea to App Store: A Guide to Shipping React Native Apps by [Chris Ball](https://twitter.com/cball_)
 - Video
-- Slides
+- [Slides](https://speakerdeck.com/cball/from-idea-to-app-store-a-guide-to-shipping-react-native-apps)
 - Links: 
 
 This format is totally and completely inspired by [Lauren Tan's](https://twitter.com/sugarpirate_) open archive of many of my favorite conferences.
