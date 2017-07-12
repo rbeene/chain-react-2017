@@ -25,7 +25,7 @@ Infinite Red Community Slack: <a href="http://community.infinite.red/"><img src=
 - Video
 - [Slides](http://url.brentvatne.ca/F09ch)
 - Links:
-  + [Native Directory](https://www.native.directory) and [the repo](https://github.com/expo/react-native-libraries)
+  + [Native Directory](https://www.native.directory) and [the repo](https://github.com/expo/react-native-libraries)[
 
 #### Realtime Event Processing, Streaming and Subscription for React Native Using Cloud Services by [Richard Threlkeld](https://twitter.com/undef_obj)
 - Video
@@ -65,7 +65,8 @@ Poornima built her talk in React Native using:
 
 #### Rewriting a Large Hybrid App with React Native by [Javier Cuevas](https://twitter.com/javier_dev)
 - Video
-- Slides
+- [Slides (nice fonts, no animations)](https://speakerdeck.com/javiercr/rewriting-a-large-hybrid-app-with-react-native-chain-react-conf-2017)
+- [Slides (ugly fonts, animated)](https://www.icloud.com/keynote/0SB6eU9zN3_-_ZG1zLQ4g400Q#Chain_React_Conf)
 - Links: 
 
 #### Why We Need an App Browser by [Ken Wheeler](https://twitter.com/ken_wheeler)
