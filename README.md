@@ -26,7 +26,7 @@ A collection of links that cover what happened during Chain React 2017. Please f
 
 #### Experimenting with a Paypal Checkout SDK using React Native by [Poornima Venkatakrishnan](https://twitter.com/poorni_venkat)
 - Video
-- Slides
+- [Slides (as an app)](https://speakerdeck.com/frantic/building-stellar-user-experiences-with-react-native)
 - Links: 
   + [Development Preview](https://github.com/paypal/paypalnativecheckout-docs)
 
