@@ -54,7 +54,7 @@ Poornima built her talk in React Native using:
 
 #### Accepting Mobile Payments with React Native by [Naoufal Kadhom](https://twitter.com/naoufal)
 - Video
-- Slides
+- [Slides](https://speakerdeck.com/naoufal/accepting-mobile-payments-with-react-native)
 - Links: 
   - [React Native Payments](https://github.com/naoufal/react-native-payments)
 
