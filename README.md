@@ -25,7 +25,7 @@ Infinite Red Community Slack: <a href="http://community.infinite.red/"><img src=
 - Video
 - [Slides](http://url.brentvatne.ca/F09ch)
 - Links:
-  + [Native Directory](https://www.native.directory) and [the repo](https://github.com/expo/react-native-libraries)[
+  + [Native Directory](https://www.native.directory) and [the repo](https://github.com/expo/react-native-libraries)
 
 #### Realtime Event Processing, Streaming and Subscription for React Native Using Cloud Services by [Richard Threlkeld](https://twitter.com/undef_obj)
 - Video
