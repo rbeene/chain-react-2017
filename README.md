@@ -3,6 +3,10 @@
 A collection of links that cover what happened during Chain React 2017. Please feel free to submit a PR!
 
 [Code of Conduct](http://confcodeofconduct.com/)
+[Chain React App (iOS)](https://itunes.apple.com/us/app/chain-react-conf/id1239112816?mt=8)
+[Chain React App (Android)](https://play.google.com/store/apps/details?id=com.chainreactapp&hl=en)
+[Chain React App Source](https://github.com/infinitered/ChainReactApp)
+Infinite Red Community Slack: <a href="http://community.infinite.red/"><img src="https://infiniteredcommunity.herokuapp.com/badge.svg"></a>
 
 ## Day 1 
 
