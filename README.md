@@ -105,7 +105,7 @@ Poornima built her talk in React Native using:
 
 #### Building Stellar User Experiences with React Native by [Alex Kotliarskyi](https://twitter.com/alex_frantic)
 - Video
-- Slides
+- [Slides](https://speakerdeck.com/frantic/building-stellar-user-experiences-with-react-native)
 - Links: 
 
 #### React Native on the Apple TV Platform by [Doug Lowder](https://twitter.com/douglowder)
