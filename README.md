@@ -34,7 +34,7 @@ Infinite Red Community Slack: <a href="http://community.infinite.red/"><img src=
 
 #### Experimenting with a Paypal Checkout SDK using React Native by [Poornima Venkatakrishnan](https://twitter.com/poorni_venkat)
 - Video
-- Slides
+- [Slides (as an app)](https://github.com/pvenkatakrishnan/ChainReact-PaypalCheckout)
 - Links: 
   + [Development Preview](https://github.com/paypal/paypalnativecheckout-docs)
 
