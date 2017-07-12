@@ -64,6 +64,7 @@ Poornima built her talk in React Native using:
 - Video
 - Slides
 - Links: 
+  - [App Browser](https://github.com/kenwheeler/app-browser)
 
 ## Day 2
 
