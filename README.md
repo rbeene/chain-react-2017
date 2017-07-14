@@ -77,7 +77,7 @@ Poornima built her talk in React Native using:
 
 #### Gestures here. Gestures there. Gestures everywhere! by [Kyle Poole](https://twitter.com/kylpo) & [Thomas Bruketta](https://twitter.com/SirTeebs)
 - Video coming soon!
-- [Slides](https://infiniteredcommunity.slack.com/files/kylpo/F67GLPET1/gestureseverywhere.pdf)
+- [Slides](https://infiniteredcommunity.slack.com/files/kylpo/F67GLPET1/gestureseverywhere.pdf) *NOTE: Requires IR Slack Login*
 - Links: 
 
 #### Rewriting a Large Hybrid App with React Native by [Javier Cuevas](https://twitter.com/javier_dev)
