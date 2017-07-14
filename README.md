@@ -64,9 +64,9 @@ Poornima built her talk in React Native using:
 - [Slides](https://bit.ly/chain-react-native-esnext)
 - Links: 
 
-#### How to Sanely Work with File Types in a Cross Platform React Native Application by [Nader Dabit](https://twitter.com/dabit3)
+#### JavaScript Futurism by [Nader Dabit](https://twitter.com/dabit3)
 - Video coming soon!
-- Slides
+- [Slides + Speaker Notes](https://docs.google.com/presentation/d/1VaphgJRcf5R47R5aPEfsJGWJ3dLiRhGFsh0bqH0cQXs/edit?usp=sharing)
 - Links: 
 
 #### Accepting Mobile Payments with React Native by [Naoufal Kadhom](https://twitter.com/naoufal)
