@@ -77,7 +77,7 @@ Poornima built her talk in React Native using:
 
 #### Gestures here. Gestures there. Gestures everywhere! by [Kyle Poole](https://twitter.com/kylpo) & [Thomas Bruketta](https://twitter.com/SirTeebs)
 - Video coming soon!
-- Slides
+- [Slides](https://infiniteredcommunity.slack.com/files/kylpo/F67GLPET1/gestureseverywhere.pdf) *NOTE: Requires IR Slack Login*
 - Links: 
 
 #### Rewriting a Large Hybrid App with React Native by [Javier Cuevas](https://twitter.com/javier_dev)
@@ -128,7 +128,8 @@ Poornima built her talk in React Native using:
 #### When to Go Native Over Javascript by [Harry Tormey](https://twitter.com/htormey)
 - Video coming soon!
 - Slides
-- Links: 
+- Links:
+  * [React Native Navigation Demo](https://github.com/hgale/ReactNativeNavigationDemo)
 
 #### Building Stellar User Experiences with React Native by [Alex Kotliarskyi](https://twitter.com/alex_frantic)
 - Video coming soon!
