@@ -108,6 +108,12 @@ Poornima built her talk in React Native using:
 - [Video](https://www.youtube.com/watch?v=DeKpgHK-bqw&list=PLFHvL21g9bk3RxJ1Ut5nR_uTZFVOxu522&index=10)
 - Slides
 - Links:
+  - [A list of GraphQL code and resources](https://github.com/chentsulin/awesome-graphql)
+  - [The GraphQL Spec](https://facebook.github.io/graphql)
+  - ~[An excellent interactive tutorial](https://learngraphql.com)~ Dead Link
+  - [The GraphQL Docs](http://graphql.org/learn)
+  - [Today’s GraphQL Demo Code](https://github.com/baer/graphql-demo)
+  - [Today’s GraphQL Demo in Launchpad](https://launchpad.graphql.com/nnnwvmq07)
 
 #### From Zero to DevOps by [Ram Narasimhan](https://twitter.com/nparashuram)
 - [Video](https://www.youtube.com/watch?v=f_-S0ZhVmvQ&list=PLFHvL21g9bk3RxJ1Ut5nR_uTZFVOxu522&index=11&t=119s)
